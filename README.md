@@ -1,7 +1,7 @@
 # Review-Analysis-using-NLP
 Analysis of Feedback of a restaurant using NLP and different classification models 
 
-About Analysis_using_NLP.py
+##About Analysis_using_NLP.py
 
 Sentiment analysis is part of the Natural Language Processing (NLP) techniques that consists in extracting emotions related to some raw texts. This is usually used on social media posts and customer reviews in order to automatically understand if some users' reviews are positive or negative.
 
@@ -12,5 +12,5 @@ Their output is compared using evaluation paramaters like Accuracy,Precision,rec
 
 Decision Tree is found to have the most accurate classification of positive and negative reviews followed by Random Forest.
 
-Contributing
+##Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate
